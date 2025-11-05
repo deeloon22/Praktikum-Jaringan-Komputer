@@ -1,6 +1,7 @@
 # Praktikum-Jaringan-Komputer
 ## 🧩 Cisco Networking Academy Lab 10.4.4  
 ## Build a Switch and Router Network  
+### Link Video Youtube https://youtu.be/dvYfaK-26EQ
 
 ### Deskripsi Singkat  
 Lab ini merupakan bagian dari praktikum Jaringan Komputer dengan fokus pada **pembangunan jaringan menggunakan router dan switch**.  
@@ -41,3 +42,7 @@ Tujuan utamanya adalah mempraktikkan konfigurasi perangkat Cisco, penerapan **IP
 <img width="427" height="191" alt="image" src="https://github.com/user-attachments/assets/14e017df-0920-43c6-9e00-c8b53c6ad481" />
 </p>
 
+#### Periksa Tabel Routing
+<p align="center">
+<img width="595" height="243" alt="image" src="https://github.com/user-attachments/assets/6a6f3a8b-d0b8-43da-abdf-e9c981686f5a" />
+</p>
